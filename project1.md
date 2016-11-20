@@ -1,5 +1,5 @@
 ---
-layout: project1
+layout: page
 title: a dummy project page	
 ---
 

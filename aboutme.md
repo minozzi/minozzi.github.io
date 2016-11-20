@@ -3,4 +3,4 @@ layout: page
 title: About me
 ---
 
-My name is William Minozzi. I'm sure there will be more content here later.
+My name is William Minozzi. I'm an associate professor of political science at Ohio State University.
