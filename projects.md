@@ -23,7 +23,7 @@ Members of Congress in online town halls."](http://www.pnas.org/content/112/13/3
 *Journal of Theoretical Politics*. 25(3): 309-37.
 
 - William Minozzi & Craig Volden 2013.
-["Who Heeds the Call of the Party in Congress?"](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8948624)
+["Who Heeds the Call of the Party in Congress?"](http://www.journals.uchicago.edu/doi/abs/10.1017/S0022381613000480)
 *Journal of Politics*. 75(3): 787-802.
 
 - William Minozzi. 2013. 
@@ -35,7 +35,7 @@ Members of Congress in online town halls."](http://www.pnas.org/content/112/13/3
 *Political Analysis*. 21(2): 193-216.
 
 - William Minozzi. 2011. 
-["A Jamming Theory of Politics"](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8274601)
+["A Jamming Theory of Politics"](http://www.journals.uchicago.edu/doi/abs/10.1017/S0022381611000296)
 *Journal of Politics*. 73(2): 301-15.
 
 - Brandice Canes-Wrone, William Minozzi, & Jessica Bonney Reveley. 2011. 
