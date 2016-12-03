@@ -5,11 +5,11 @@ title: Projects
 
 ## Publications
 
-- William Minozzi & Jonathan Woon. 2016. 
+William Minozzi & Jonathan Woon. 2016. 
 ["Competition, Preference Uncertainty, and Jamming."](http://www.sciencedirect.com/science/article/pii/S0899825616000166)
 *Games and Economic Behavior*. 96: 97-114.
 
-- William Minozzi, Michael A. Neblo, Kevin M. Esterling, & David M. J. Lazer. 2015. 
+William Minozzi, Michael A. Neblo, Kevin M. Esterling, & David M. J. Lazer. 2015. 
 ["Field experiment evidence of substantive, attributional, and behavioral persuasion by 
 Members of Congress in online town halls."](http://www.pnas.org/content/112/13/3937.abstract?sid=d04bba5b-170a-40f3-9ef4-2db3b19a982d) 
 *Proceedings of the National Academy of Sciences*. 112(13): 3937-3942.
