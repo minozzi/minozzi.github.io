@@ -3,8 +3,6 @@ layout: page
 title: Projects
 ---
 
-## Current projects
-
 "Anarchy in the Lab." 
 With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
 

@@ -3,8 +3,6 @@ layout: page
 title: Publications
 ---
 
-## Publications
-
 William Minozzi & Jonathan Woon. 2016. 
 ["Competition, Preference Uncertainty, and Jamming."](http://www.sciencedirect.com/science/article/pii/S0899825616000166)
 *Games and Economic Behavior*. 96: 97-114.
