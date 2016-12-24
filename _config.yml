@@ -40,12 +40,14 @@ avatar: "/img/8636300.jpeg"
 author:
   name: William Minozzi
   email: "william.minozzi@gmail.com"
-  github: minozzi    
+  github: minozzi   
+  ORCID: "0000-0001-9147-1788"
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
+  ORCID: true
   twitter: false
   google-plus: false
   github: true

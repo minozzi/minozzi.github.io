@@ -133,6 +133,16 @@
             </a>
           </li>
           {% endif %}
+      {% if site.author.ORCID and site.footer-links-active.ORCID %}
+          <li>
+            <a href="http://orcid.org/{{ site.author.ORCID }}" title="ORCID">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-university fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
 		  {% if site.footer-links-active.rss %}
 		  <li>
 			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
