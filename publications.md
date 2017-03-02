@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+Michael A. Neblo, William Minozzi, Kevin M. Esterling, Jon Green, Jonathon Kingzette, & David M.J. Lazer. 2017. 
+["The need for a translational science of democracy."](http://science.sciencemag.org/content/355/6328/914)
+*Science*. 355(6328): 914-5.
+
 William Minozzi & Jonathan Woon. 2016. 
 ["Competition, Preference Uncertainty, and Jamming."](http://www.sciencedirect.com/science/article/pii/S0899825616000166)
 *Games and Economic Behavior*. 96: 97-114.
