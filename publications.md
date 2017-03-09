@@ -43,4 +43,4 @@ William Minozzi. 2011.
 Brandice Canes-Wrone, William Minozzi, & Jessica Bonney Reveley. 2011. 
 ["Issue Accountability and the Mass Public"](http://onlinelibrary.wiley.com/doi/10.1111/j.1939-9162.2010.00002.x/abstract)
 *Legislative Studies Quarterly*. 36(1): 5-35.
-[supporting materials](williamminozzi.com/assets/issue-accountability-appendix.pdf)
+[supporting materials](issue-accountability-appendix.pdf)
