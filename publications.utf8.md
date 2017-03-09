@@ -30,8 +30,7 @@ William Minozzi & Craig Volden 2013.
 
 William Minozzi. 2013. 
 ["Endogenous Beliefs in Models of Politics"](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12021/abstract)
-*American Journal of Political Science*. 57(3): 566-81.  
-[Supporting materials](beliefs-appendix.pdf)
+*American Journal of Political Science*. 57(3): 566-81.
 
 Luke Keele & William Minozzi. 2013. 
 ["How Much is Minnesota Like Wisconsin?"](http://pan.oxfordjournals.org/content/21/2/193)
@@ -39,8 +38,7 @@ Luke Keele & William Minozzi. 2013.
 
 William Minozzi. 2011. 
 ["A Jamming Theory of Politics"](http://www.journals.uchicago.edu/doi/abs/10.1017/S0022381611000296)
-*Journal of Politics*. 73(2): 301-15.  
-[Supporting materials](jamming-appendix.pdf)
+*Journal of Politics*. 73(2): 301-15.
 
 Brandice Canes-Wrone, William Minozzi, & Jessica Bonney Reveley. 2011. 
 ["Issue Accountability and the Mass Public"](http://onlinelibrary.wiley.com/doi/10.1111/j.1939-9162.2010.00002.x/abstract)
