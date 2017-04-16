@@ -3,11 +3,11 @@ layout: page
 title: Projects
 ---
 
-"Athletic Democracy: Robust Deliberation *and* Participation." 
-With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
-
 "Anarchy in the Lab." 
 With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
+
+"Athletic Democracy: Robust Deliberation *and* Participation." 
+With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 
 "Competition and Sequential Communcation." 
 With Jonathan Woon
