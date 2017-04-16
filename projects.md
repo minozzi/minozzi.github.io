@@ -3,12 +3,14 @@ layout: page
 title: Projects
 ---
 
+"Athletic Democracy: Robust Deliberation *and* Participation." 
+With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
+
 "Anarchy in the Lab." 
 With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
 
 "Competition and Sequential Communcation." 
-With Jonathan Woon 
-(under review)
+With Jonathan Woon
 
 "Congress 3.0." 
 With Kevin Esterling, Ryan P. Kennedy, David Lazer, &  Michael Neblo
@@ -33,6 +35,9 @@ With Jonathan Woon
 
 "Thrasymachus' Blush." 
 With Michael Neblo
+
+"Man, State, and War: An Experimental Approach."
+With Eli Assaf, Chris Gelpi, \& Andrew Rosenberg
 
 "Who Heeds the Call of the Party in U.S. Senate?" 
 With Ethan Hershberger & Craig Volden
