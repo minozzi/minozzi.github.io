@@ -3,9 +3,6 @@ layout: page
 title: Projects
 ---
 
-"Anarchy in the Lab." 
-With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
-
 "Athletic Democracy: Robust Deliberation *and* Participation." 
 With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 
@@ -17,6 +14,15 @@ With Kevin Esterling, Ryan P. Kennedy, David Lazer, &  Michael Neblo
 
 "The Incidental Pundit." 
 With Hyunjin Song, Michael Neblo, David Lazer, & Katherine Ognyanova
+
+"It Takes Two: Heterogeneous Motivations & Reputations in International Relations." 
+With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
+
+"Man, State, and War: An Experimental Approach."
+With Eli Assaf, Chris Gelpi, & Andrew Rosenberg
+
+"Party Calls and Reelection in the U.S. Senate." 
+With Ethan Hershberger & Craig Volden
 
 "Revisiting Familiarity and Contempt: A Field Experiment on Constituent 
 Attitudes toward Members of Congress." 
@@ -35,11 +41,5 @@ With Jonathan Woon
 
 "Thrasymachus' Blush." 
 With Michael Neblo
-
-"Man, State, and War: An Experimental Approach."
-With Eli Assaf, Chris Gelpi, \& Andrew Rosenberg
-
-"Who Heeds the Call of the Party in U.S. Senate?" 
-With Ethan Hershberger & Craig Volden
 
 ---
