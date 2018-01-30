@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+Ethan Hershberger, William Minozzi, & Craig Volden. 
+"Party Calls and Reelection in the U.S. Senate." 
+Accepted at *Journal of Politics*.
+
 Michael A. Neblo, William Minozzi, Kevin M. Esterling, Jon Green, Jonathon Kingzette, & David M.J. Lazer. 2017. 
 ["The need for a translational science of democracy."](http://science.sciencemag.org/content/355/6328/914)
 *Science*. 355(6328): 914-5.

@@ -21,9 +21,6 @@ With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
 "Man, State, and War: An Experimental Approach."
 With Eli Assaf, Chris Gelpi, & Andrew Rosenberg
 
-"Party Calls and Reelection in the U.S. Senate." 
-With Ethan Hershberger & Craig Volden
-
 "Revisiting Familiarity and Contempt: A Field Experiment on Constituent 
 Attitudes toward Members of Congress." 
 With Kevin Esterling, David Lazer, & Michael Neblo
