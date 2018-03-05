@@ -5,7 +5,8 @@ title: Publications
 
 Ethan Hershberger, William Minozzi, & Craig Volden. 
 "Party Calls and Reelection in the U.S. Senate." 
-Accepted at *Journal of Politics*.
+Accepted at *Journal of Politics*.  
+[Supporting materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NDYHC&version=1.0)
 
 Michael A. Neblo, William Minozzi, Kevin M. Esterling, Jon Green, Jonathon Kingzette, & David M.J. Lazer. 2017. 
 ["The need for a translational science of democracy."](http://science.sciencemag.org/content/355/6328/914)
@@ -18,7 +19,8 @@ William Minozzi & Jonathan Woon. 2016.
 William Minozzi, Michael A. Neblo, Kevin M. Esterling, & David M. J. Lazer. 2015. 
 ["Field experiment evidence of substantive, attributional, and behavioral persuasion by 
 Members of Congress in online town halls."](http://www.pnas.org/content/112/13/3937.abstract?sid=d04bba5b-170a-40f3-9ef4-2db3b19a982d) 
-*Proceedings of the National Academy of Sciences*. 112(13): 3937-3942.
+*Proceedings of the National Academy of Sciences*. 112(13): 3937-3942.  
+[Supporting materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27323)
 
 William Minozzi. 2014. 
 ["Conditions for Dialogue and Dominance in Political Campaigns."](http://www.tandfonline.com/doi/abs/10.1080/10584609.2012.747191)
@@ -30,7 +32,8 @@ William Minozzi & Jonathan Woon. 2013.
 
 William Minozzi & Craig Volden 2013.
 ["Who Heeds the Call of the Party in Congress?"](http://www.journals.uchicago.edu/doi/abs/10.1017/S0022381613000480)
-*Journal of Politics*. 75(3): 787-802.
+*Journal of Politics*. 75(3): 787-802.  
+Replicated in ["Party Calls and Reelection in the U.S. Senate."](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NDYHC&version=1.0)
 
 William Minozzi. 2013. 
 ["Endogenous Beliefs in Models of Politics"](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12021/abstract)
