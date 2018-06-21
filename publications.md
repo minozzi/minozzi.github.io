@@ -4,8 +4,8 @@ title: Publications
 ---
 
 Ethan Hershberger, William Minozzi, & Craig Volden. 
-"Party Calls and Reelection in the U.S. Senate." 
-Accepted at *Journal of Politics*.  
+["Party Calls and Reelection in the U.S. Senate." ](https://www.journals.uchicago.edu/doi/10.1086/698662)
+Forthcoming in *Journal of Politics*.  
 [Supporting materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NDYHC&version=1.0)
 
 Michael A. Neblo, William Minozzi, Kevin M. Esterling, Jon Green, Jonathon Kingzette, & David M.J. Lazer. 2017. 
