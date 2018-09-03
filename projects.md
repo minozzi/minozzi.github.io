@@ -12,6 +12,9 @@ With Jonathan Woon
 "Congress 3.0." 
 With Kevin Esterling, Ryan P. Kennedy, David Lazer, &  Michael Neblo
 
+"Direct Response and the Strategy Method in an Experimental Cheap Talk Game."
+With Jonathan Woon
+
 "The Incidental Pundit." 
 With Hyunjin Song, Michael Neblo, David Lazer, & Katherine Ognyanova
 
