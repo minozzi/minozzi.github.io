@@ -6,19 +6,19 @@ title: Projects
 "Athletic Democracy: Robust Deliberation *and* Participation." 
 With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 
-"Competition and Sequential Communcation." 
-With Jonathan Woon
+"Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."
+With Clare Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis
 
-"Congress 3.0." 
-With Kevin Esterling, Ryan P. Kennedy, David Lazer, &  Michael Neblo
+"Competition and Exaggeration in Experimental Cheap Talk Games." 
+With Jonathan Woon
 
 "Direct Response and the Strategy Method in an Experimental Cheap Talk Game."
 With Jonathan Woon
 
-"The Incidental Pundit." 
+"The Incidental Pundit: Who Talks Politics with Whom, and Why?" 
 With Hyunjin Song, Michael Neblo, David Lazer, & Katherine Ognyanova
 
-"It Takes Two: Heterogeneous Motivations & Reputations in International Relations." 
+"It Takes Two: Heterogeneous Motivations and Reputations in International Relations." 
 With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
 
 "Man, State, and War: An Experimental Approach."
@@ -39,7 +39,7 @@ With Gregory Caldeira
 "Talk and Text: Verbal versus Numeric Messages in Cheap Talk Experiments"
 With Jonathan Woon
 
-"Thrasymachus' Blush." 
+"Thrasymachus' Blush: Between the Science of Reason and the Politics of Emotion." 
 With Michael Neblo
 
 ---
