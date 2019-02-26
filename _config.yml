@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://minozzi.github.io"
+url: "https://minozzi.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -27,7 +27,7 @@ navbar-links:
   Current Projects: "projects"
   Publications: "publications"
   CV: "minozzi-cv.pdf"
-  Home: "http://williamminozzi.com"
+  Home: "https://williamminozzi.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -40,7 +40,7 @@ avatar: "/img/8636300.jpeg"
 author:
   name: William Minozzi
   email: "william.minozzi@gmail.com"
-  github: minozzi   
+  github: minozzi
   ORCID: "0000-0001-9147-1788"
 # Select which links to show in the footer
 footer-links-active:
@@ -69,7 +69,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "williamminozzi.com"  
+url-pretty: "williamminozzi.com"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
