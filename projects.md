@@ -9,8 +9,8 @@ With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 "Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."
 With Clare Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis
 
-"Competition and Exaggeration in Experimental Cheap Talk Games." 
-With Jonathan Woon
+"Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions."
+With Ryan, Kennedy, Anand Sokhey, Claire Abernathy, Kevin Esterling, David Lazer, Amy Lee, & Michael Neblo
 
 "Direct Response and the Strategy Method in an Experimental Cheap Talk Game."
 With Jonathan Woon
@@ -20,6 +20,9 @@ With Hyunjin Song, Michael Neblo, David Lazer, & Katherine Ognyanova
 
 "It Takes Two: Heterogeneous Motivations and Reputations in International Relations." 
 With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
+
+"The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games." 
+With Jonathan Woon
 
 "Man, State, and War: An Experimental Approach."
 With Eli Assaf, Chris Gelpi, & Andrew Rosenberg
