@@ -3,6 +3,13 @@ layout: page
 title: Publications
 ---
 
+William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine Ognyanova.
+"The Incidental Pundit: Who Talks Politics with Whom, and Why?" 
+Conditionally accepted at *American Journal of Political Science*.
+
+William Minozzi and Jonathan Woon. "The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games." 
+Conditionally accepted at *Games and Economic Behavior*.
+
 Ethan Hershberger, William Minozzi, & Craig Volden. 2018.
 ["Party Calls and Reelection in the U.S. Senate." ](https://www.journals.uchicago.edu/doi/10.1086/698662)
 *Journal of Politics*.  80(4): 1394-9.

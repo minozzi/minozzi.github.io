@@ -15,14 +15,8 @@ With Ryan, Kennedy, Anand Sokhey, Claire Abernathy, Kevin Esterling, David Lazer
 "Direct Response and the Strategy Method in an Experimental Cheap Talk Game."
 With Jonathan Woon
 
-"The Incidental Pundit: Who Talks Politics with Whom, and Why?" 
-With Hyunjin Song, Michael Neblo, David Lazer, & Katherine Ognyanova
-
 "It Takes Two: Heterogeneous Motivations and Reputations in International Relations." 
 With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
-
-"The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games." 
-With Jonathan Woon
 
 "Man, State, and War: An Experimental Approach."
 With Eli Assaf, Chris Gelpi, & Andrew Rosenberg
