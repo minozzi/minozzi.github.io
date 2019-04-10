@@ -2,6 +2,9 @@
 layout: page
 title: Publications
 ---
+Clare Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
+"Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."
+Accepted at *Legislative Studies Quarterly*.
 
 William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine Ognyanova.
 "The Incidental Pundit: Who Talks Politics with Whom, and Why?" 

@@ -6,9 +6,6 @@ title: Projects
 "Athletic Democracy: Robust Deliberation *and* Participation." 
 With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 
-"Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."
-With Clare Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis
-
 "Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions."
 With Ryan, Kennedy, Anand Sokhey, Claire Abernathy, Kevin Esterling, David Lazer, Amy Lee, & Michael Neblo
 
