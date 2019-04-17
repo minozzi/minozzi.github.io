@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 Clare Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
-"Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."
+["Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."](tth-lsq-accept-2019-04-17.pdf)
 Accepted at *Legislative Studies Quarterly*.
 [Supporting materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LGBXWX)
 
