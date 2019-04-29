@@ -9,7 +9,7 @@ Accepted at *Legislative Studies Quarterly*.
 
 William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine Ognyanova.
 "The Incidental Pundit: Who Talks Politics with Whom, and Why?" 
-Conditionally accepted at *American Journal of Political Science*.
+Accepted at *American Journal of Political Science*.
 
 William Minozzi and Jonathan Woon. "The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games." 
 Conditionally accepted at *Games and Economic Behavior*.
