@@ -4,7 +4,7 @@ title: Publications
 ---
 Clare Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
 ["Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."](tth-lsq-accept-2019-04-17.pdf)
-Accepted at *Legislative Studies Quarterly*.
+Accepted at *Legislative Studies Quarterly*.  
 [Supporting materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LGBXWX)
 
 William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine Ognyanova.
@@ -16,7 +16,7 @@ Conditionally accepted at *Games and Economic Behavior*.
 
 Ethan Hershberger, William Minozzi, & Craig Volden. 2018.
 ["Party Calls and Reelection in the U.S. Senate." ](https://www.journals.uchicago.edu/doi/10.1086/698662)
-*Journal of Politics*.  80(4): 1394-9.
+*Journal of Politics*.  80(4): 1394-9.  
 [Supporting materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NDYHC&version=1.0)
 
 Michael A. Neblo, William Minozzi, Kevin M. Esterling, Jon Green, Jonathon Kingzette, & David M.J. Lazer. 2017. 
