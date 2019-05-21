@@ -13,7 +13,7 @@ Accepted at *American Journal of Political Science*.
 [Supporting materials](incidental-pundit-appendix.pdf)
 
 William Minozzi and Jonathan Woon. "The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games." 
-Conditionally accepted at *Games and Economic Behavior*.
+Accepted at *Games and Economic Behavior*.
 
 Ethan Hershberger, William Minozzi, & Craig Volden. 2018.
 ["Party Calls and Reelection in the U.S. Senate." ](https://www.journals.uchicago.edu/doi/10.1086/698662)
