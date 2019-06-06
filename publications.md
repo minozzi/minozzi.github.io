@@ -2,23 +2,29 @@
 layout: page
 title: Publications
 ---
-Clare Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
-["Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."](tth-lsq-accept-2019-04-17.pdf)
-Accepted at *Legislative Studies Quarterly*.  
-[Supporting materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LGBXWX)
+
+Claire Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
+["Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12242)
+Available in *Early View* at *Legislative Studies Quarterly*.  
+[Appendix](telephone-town-halls-appendix.pdf)
+[Replication materials](https://doi.org/10.7910/DVN/LGBXWX)
 
 William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine Ognyanova.
 ["The Incidental Pundit: Who Talks Politics with Whom, and Why?"](incidental-pundit.pdf)
 Accepted at *American Journal of Political Science*.  
-[Supporting materials](incidental-pundit-appendix.pdf)
+[Appendix](incidental-pundit-appendix.pdf) 
+[Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
 
-William Minozzi and Jonathan Woon. "The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games." 
-Accepted at *Games and Economic Behavior*.
+William Minozzi and Jonathan Woon. ["The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games."](limited-value.pdf) 
+Accepted at *Games and Economic Behavior*.  
+[Appendix](limited-value-appendix.pdf) 
+[Replication materials](https://doi.org/10.7910/DVN/99OJBV)
 
 Ethan Hershberger, William Minozzi, & Craig Volden. 2018.
 ["Party Calls and Reelection in the U.S. Senate." ](https://www.journals.uchicago.edu/doi/10.1086/698662)
 *Journal of Politics*.  80(4): 1394-9.  
-[Supporting materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NDYHC&version=1.0)
+[Appendix](senate-party-calls-appendix.pdf) 
+[Replication materials](https://doi.org/10.7910/DVN/6NDYHC)
 
 Michael A. Neblo, William Minozzi, Kevin M. Esterling, Jon Green, Jonathon Kingzette, & David M.J. Lazer. 2017. 
 ["The need for a translational science of democracy."](http://science.sciencemag.org/content/355/6328/914)
@@ -32,7 +38,7 @@ William Minozzi, Michael A. Neblo, Kevin M. Esterling, & David M. J. Lazer. 2015
 ["Field experiment evidence of substantive, attributional, and behavioral persuasion by 
 Members of Congress in online town halls."](http://www.pnas.org/content/112/13/3937.abstract?sid=d04bba5b-170a-40f3-9ef4-2db3b19a982d) 
 *Proceedings of the National Academy of Sciences*. 112(13): 3937-3942.  
-[Supporting materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27323)
+[Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27323)
 
 William Minozzi. 2014. 
 ["Conditions for Dialogue and Dominance in Political Campaigns."](http://www.tandfonline.com/doi/abs/10.1080/10584609.2012.747191)
@@ -50,7 +56,7 @@ Replicated in ["Party Calls and Reelection in the U.S. Senate."](https://dataver
 William Minozzi. 2013. 
 ["Endogenous Beliefs in Models of Politics"](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12021/abstract)
 *American Journal of Political Science*. 57(3): 566-81.  
-[Supporting materials](beliefs-appendix.pdf)
+[Appendix](beliefs-appendix.pdf)
 
 Luke Keele & William Minozzi. 2013. 
 ["How Much is Minnesota Like Wisconsin?"](http://pan.oxfordjournals.org/content/21/2/193)
@@ -59,11 +65,11 @@ Luke Keele & William Minozzi. 2013.
 William Minozzi. 2011. 
 ["A Jamming Theory of Politics"](http://www.journals.uchicago.edu/doi/abs/10.1017/S0022381611000296)
 *Journal of Politics*. 73(2): 301-15.  
-[Supporting materials](jamming-appendix.pdf)
+[Appendix](jamming-appendix.pdf)
 
 Brandice Canes-Wrone, William Minozzi, & Jessica Bonney Reveley. 2011. 
 ["Issue Accountability and the Mass Public"](http://onlinelibrary.wiley.com/doi/10.1111/j.1939-9162.2010.00002.x/abstract)
 *Legislative Studies Quarterly*. 36(1): 5-35.  
-[Supporting materials](issue-accountability-appendix.pdf)
+[Appendix](issue-accountability-appendix.pdf)
 
 ---
