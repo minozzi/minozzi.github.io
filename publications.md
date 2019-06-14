@@ -5,7 +5,7 @@ title: Publications
 
 Claire Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
 ["Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12242)
-Available in *Early View* at *Legislative Studies Quarterly*.  
+Early View, *Legislative Studies Quarterly*.  
 [Appendix](telephone-town-halls-appendix.pdf)
 [Replication materials](https://doi.org/10.7910/DVN/LGBXWX)
 
@@ -15,10 +15,10 @@ Accepted at *American Journal of Political Science*.
 [Appendix](incidental-pundit-appendix.pdf) 
 [Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
 
-William Minozzi and Jonathan Woon. ["The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games."](limited-value.pdf) 
-Accepted at *Games and Economic Behavior*.  
+William Minozzi and Jonathan Woon. ["The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games."](https://www.sciencedirect.com/science/article/pii/S0899825619300740?via%3Dihub)
+Accepted in press, *Games and Economic Behavior*.  
 [Appendix](limited-value-appendix.pdf) 
-[Replication materials](https://doi.org/10.7910/DVN/99OJBV)
+[Replication materials](https://doi.org/10.7910/DVN/99OJBV) 
 
 Ethan Hershberger, William Minozzi, & Craig Volden. 2018.
 ["Party Calls and Reelection in the U.S. Senate." ](https://www.journals.uchicago.edu/doi/10.1086/698662)
