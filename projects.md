@@ -6,6 +6,9 @@ title: Projects
 "Athletic Democracy: Robust Deliberation *and* Participation." 
 With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 
+"Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861." 
+With Gregory Caldeira
+
 "Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions."
 With Ryan, Kennedy, Anand Sokhey, Claire Abernathy, Kevin Esterling, David Lazer, Amy Lee, & Michael Neblo
 
@@ -25,9 +28,6 @@ With Kevin Esterling, David Lazer, & Michael Neblo
 "The Social Control of Political Participation." 
 With David Lazer, Michael Neblo, Katherine Ognyanova, & Brian Rubineau
 
-"Social Influence in the U.S. House of Representatives, 1801-1861." 
-With Gregory Caldeira
-
 "Socializing Statecraft: Wining and Dining Congress in the Jefferson Presidency." With William Massengill & Gregory Caldeira
 
 "Talk and Text: Verbal versus Numeric Messages in Cheap Talk Experiments"
@@ -35,5 +35,8 @@ With Jonathan Woon
 
 "Thrasymachus' Blush: Between the Science of Reason and the Politics of Emotion." 
 With Michael Neblo
+
+"The Value-Added of Public Deliberation."
+With Ryan Kennedy, Kevin Esterling,  Michael Neblo, & Ryan Jewell
 
 ---
