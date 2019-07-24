@@ -3,20 +3,20 @@ layout: page
 title: Publications
 ---
 
-Claire Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
-["Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12242)
-Early View, *Legislative Studies Quarterly*.  
-[Appendix](telephone-town-halls-appendix.pdf)
-[Replication materials](https://doi.org/10.7910/DVN/LGBXWX)
-
 William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine Ognyanova.
 ["The Incidental Pundit: Who Talks Politics with Whom, and Why?"](incidental-pundit.pdf)
 Accepted at *American Journal of Political Science*.  
 [Appendix](incidental-pundit-appendix.pdf) 
 [Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
 
-William Minozzi and Jonathan Woon. ["The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games."](https://www.sciencedirect.com/science/article/pii/S0899825619300740?via%3Dihub)
-Accepted in press, *Games and Economic Behavior*.  
+Claire Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
+["Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12242)
+Early View, *Legislative Studies Quarterly*.  
+[Appendix](telephone-town-halls-appendix.pdf)
+[Replication materials](https://doi.org/10.7910/DVN/LGBXWX)
+
+William Minozzi and Jonathan Woon. 2019. ["The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games."](https://www.sciencedirect.com/science/article/pii/S0899825619300740)
+*Games and Economic Behavior*. 117(September): 144-62.  
 [Appendix](limited-value-appendix.pdf) 
 [Replication materials](https://doi.org/10.7910/DVN/99OJBV) 
 
@@ -32,7 +32,7 @@ Michael A. Neblo, William Minozzi, Kevin M. Esterling, Jon Green, Jonathon Kingz
 
 William Minozzi & Jonathan Woon. 2016. 
 ["Competition, Preference Uncertainty, and Jamming."](http://www.sciencedirect.com/science/article/pii/S0899825616000166)
-*Games and Economic Behavior*. 96: 97-114.
+*Games and Economic Behavior*. 96(March): 97-114.
 
 William Minozzi, Michael A. Neblo, Kevin M. Esterling, & David M. J. Lazer. 2015. 
 ["Field experiment evidence of substantive, attributional, and behavioral persuasion by 
