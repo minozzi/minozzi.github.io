@@ -36,7 +36,7 @@ With Jonathan Woon
 "Thrasymachus' Blush: Between the Science of Reason and the Politics of Emotion." 
 With Michael Neblo
 
-"The Value-Added of Public Deliberation."
+"Testing the Value-Added of Public Deliberation."
 With Ryan Kennedy, Kevin Esterling,  Michael Neblo, & Ryan Jewell
 
 ---
