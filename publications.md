@@ -4,8 +4,8 @@ title: Publications
 ---
 
 William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine Ognyanova.
-["The Incidental Pundit: Who Talks Politics with Whom, and Why?"](incidental-pundit.pdf)
-Accepted at *American Journal of Political Science*.  
+["The Incidental Pundit: Who Talks Politics with Whom, and Why?"](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12469)
+Early View, *American Journal of Political Science*.  
 [Appendix](incidental-pundit-appendix.pdf) 
 [Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
 
