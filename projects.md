@@ -9,9 +9,6 @@ With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 "Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861." 
 With Gregory Caldeira
 
-"Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions."
-With Ryan, Kennedy, Anand Sokhey, Claire Abernathy, Kevin Esterling, David Lazer, Amy Lee, & Michael Neblo
-
 "Direct Response and the Strategy Method in an Experimental Cheap Talk Game."
 With Jonathan Woon
 
