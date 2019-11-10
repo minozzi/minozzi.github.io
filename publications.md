@@ -3,6 +3,11 @@ layout: page
 title: Publications
 ---
 
+Ryan Kennedy, Anand E. Sokhey, Claire Abernathy, Kevin M. Esterling, Kevin M. Esterling, David M.J. Lazer, Amy Lee, William Minozzi, & Michael A. Neblo.
+[``Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions.''](demographics-equal-voice-accepted.pdf)
+Accepted, 
+*Political Studies*.
+
 William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine Ognyanova.
 ["The Incidental Pundit: Who Talks Politics with Whom, and Why?"](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12469)
 Early View, *American Journal of Political Science*.  
@@ -11,7 +16,7 @@ Early View, *American Journal of Political Science*.
 
 Claire Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
 ["Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12242)
-Early View, *Legislative Studies Quarterly*.  
+*Legislative Studies Quarterly* 44(4): 617-46.  
 [Appendix](telephone-town-halls-appendix.pdf)
 [Replication materials](https://doi.org/10.7910/DVN/LGBXWX)
 
