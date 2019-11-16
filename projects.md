@@ -18,9 +18,8 @@ With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
 "Man, State, and War: An Experimental Approach."
 With Eli Assaf, Chris Gelpi, & Andrew Rosenberg
 
-"Revisiting Familiarity and Contempt: A Field Experiment on Constituent 
-Attitudes toward Members of Congress." 
-With Kevin Esterling, David Lazer, & Michael Neblo
+"Does Familiarity Breed Contempt (or Esteem)? A Field Experiment on Emergent Constituent Attitudes toward Members of Congress." 
+With Kevin Esterling & Michael Neblo
 
 "The Social Control of Political Participation." 
 With David Lazer, Michael Neblo, Katherine Ognyanova, & Brian Rubineau
