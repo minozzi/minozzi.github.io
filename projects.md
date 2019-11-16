@@ -12,14 +12,14 @@ With Gregory Caldeira
 "Direct Response and the Strategy Method in an Experimental Cheap Talk Game."
 With Jonathan Woon
 
+"Does Familiarity Breed Contempt (or Esteem)? A Field Experiment on Emergent Constituent Attitudes toward Members of Congress." 
+With Kevin Esterling & Michael Neblo
+
 "It Takes Two: Heterogeneous Motivations and Reputations in International Relations." 
 With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
 
 "Man, State, and War: An Experimental Approach."
 With Eli Assaf, Chris Gelpi, & Andrew Rosenberg
-
-"Does Familiarity Breed Contempt (or Esteem)? A Field Experiment on Emergent Constituent Attitudes toward Members of Congress." 
-With Kevin Esterling & Michael Neblo
 
 "The Social Control of Political Participation." 
 With David Lazer, Michael Neblo, Katherine Ognyanova, & Brian Rubineau
