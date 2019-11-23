@@ -3,6 +3,11 @@ layout: page
 title: Publications
 ---
 
+William Minozzi and Jonathan Woon. 
+"Direct Response and the Strategy Method in an Experimental Cheap Talk Game."
+Accepted, 
+*Journal of Behavioral and Experimental Economics*.  
+
 Ryan Kennedy, Anand E. Sokhey, Claire Abernathy, Kevin M. Esterling, Kevin M. Esterling, David M.J. Lazer, Amy Lee, William Minozzi, & Michael A. Neblo.
 [``Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions.''](demographics-equal-voice-accepted.pdf)
 Accepted, 
@@ -10,7 +15,8 @@ Accepted,
 
 William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine Ognyanova.
 ["The Incidental Pundit: Who Talks Politics with Whom, and Why?"](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12469)
-Early View, *American Journal of Political Science*.  
+Early View, 
+*American Journal of Political Science*.  
 [Appendix](incidental-pundit-appendix.pdf) 
 [Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
 
