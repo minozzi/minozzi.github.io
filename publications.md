@@ -4,8 +4,8 @@ title: Publications
 ---
 
 William Minozzi and Jonathan Woon. 
-"Direct Response and the Strategy Method in an Experimental Cheap Talk Game."
-Accepted, 
+["Direct Response and the Strategy Method in an Experimental Cheap Talk Game."](https://doi.org/10.1016/j.socec.2019.101498)
+In press, 
 *Journal of Behavioral and Experimental Economics*.  
 
 Ryan Kennedy, Anand E. Sokhey, Claire Abernathy, Kevin M. Esterling, Kevin M. Esterling, David M.J. Lazer, Amy Lee, William Minozzi, & Michael A. Neblo.
