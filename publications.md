@@ -31,7 +31,7 @@ Claire Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo
 [Replication materials](https://doi.org/10.7910/DVN/LGBXWX)
 
 William Minozzi and Jonathan Woon.
-2019. 
+2019.
 ["The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games."](https://www.sciencedirect.com/science/article/pii/S0899825619300740)
 *Games and Economic Behavior* 117(September): 144-62.  
 [Appendix](limited-value-appendix.pdf) 
