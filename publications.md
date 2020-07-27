@@ -3,7 +3,13 @@ layout: page
 title: Publications
 ---
 
-Ryan Kennedy, Anand E. Sokhey, Claire Abernathy, Kevin M. Esterling, Kevin M. Esterling, David M.J. Lazer, Amy Lee, William Minozzi, & Michael A. Neblo.
+
+William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
+2020.
+"Testing the Value-added of Deliberation."
+Conditionally Accepted, *American Journal of Political Science*.
+
+Ryan Kennedy, Anand E. Sokhey, Claire Abernathy, Kevin M. Esterling, David M.J. Lazer, Amy Lee, William Minozzi, & Michael A. Neblo.
 [``Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions.''](https://doi.org/10.1177%2F0032321719890805)
 OnlineFirst, 
 *Political Studies*.

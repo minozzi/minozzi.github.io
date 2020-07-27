@@ -9,7 +9,7 @@ With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 "Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861." 
 With Gregory Caldeira
 
-"Does Familiarity Breed Contempt (or Esteem)? A Field Experiment on Emergent Constituent Attitudes toward Members of Congress." 
+"Does Familiarity Breed Esteem?  A Field Experiment on Emergent Attitudes toward Members of Congress." 
 With Kevin Esterling & Michael Neblo
 
 "It Takes Two: Heterogeneous Motivations and Reputations in International Relations." 
@@ -29,8 +29,5 @@ With Jonathan Woon
 
 "Thrasymachus' Blush: Between the Science of Reason and the Politics of Emotion." 
 With Michael Neblo
-
-"Testing the Value-Added of Public Deliberation."
-With Ryan Kennedy, Kevin Esterling,  Michael Neblo, & Ryan Jewell
 
 ---
