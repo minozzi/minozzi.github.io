@@ -6,7 +6,7 @@ title: Publications
 
 William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
 2020.
-"Testing the Value-added of Deliberation."
+"Testing the Benefits of Public Deliberation."
 Conditionally Accepted, *American Journal of Political Science*.
 
 Ryan Kennedy, Anand E. Sokhey, Claire Abernathy, Kevin M. Esterling, David M.J. Lazer, Amy Lee, William Minozzi, & Michael A. Neblo.
