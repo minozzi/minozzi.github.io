@@ -6,9 +6,6 @@ title: Projects
 "Athletic Democracy: Robust Deliberation *and* Participation." 
 With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 
-"Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861." 
-With Gregory Caldeira
-
 "Does Familiarity Breed Esteem?  A Field Experiment on Emergent Attitudes toward Members of Congress." 
 With Kevin Esterling & Michael Neblo
 
