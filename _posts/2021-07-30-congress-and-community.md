@@ -11,6 +11,6 @@ Legislators often rely on cues from colleagues to inform their actions. Several 
 
 [Article](https://doi.org/10.1017/S0003055421000630)
 
-[Appendix](publications/residences-appendix.pdf)
+[Appendix](https://minozzi.github.io/publications/residences-appendix.pdf)
 
 [Replication materials](https://doi.org/10.7910/DVN/LIJSWE)
