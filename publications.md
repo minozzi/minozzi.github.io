@@ -94,7 +94,7 @@ Replicated in ["Party Calls and Reelection in the U.S. Senate."](https://dataver
 
 William Minozzi.
 2013.
-["Endogenous Beliefs in Models of Politics"](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12021/abstract)
+["Endogenous Beliefs in Models of Politics"](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12021)
 *American Journal of Political Science*. 57(3): 566-81.  
 [Appendix](beliefs-appendix.pdf)
 
