@@ -4,18 +4,18 @@ title: Publications
 ---
 
 
-William Minozzi & Gregory A. Caldeira.
-"Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861." 
-Accepted, *American Political Science Review*.
-[Draft](residences-draft.pdf)
-[Appendix](residences-appendix.pdf)
-
 William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
 "Testing the Benefits of Public Deliberation."
 Accepted, *American Journal of Political Science*.
 [Draft](testing-benefits-draft.pdf)
 [Appendix](testing-benefitsappendix.pdf)
 [Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
+
+William Minozzi & Gregory A. Caldeira.
+["Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861."](https://www.doi.org/10.1017/S0003055421000630)
+First View, *American Political Science Review*.
+[Appendix](residences-appendix.pdf)
+[Replication materials](https://doi.org/10.7910/DVN/LIJSWE)
 
 Ryan Kennedy, Anand E. Sokhey, Claire Abernathy, Kevin M. Esterling, David M.J. Lazer, Amy Lee, William Minozzi, & Michael A. Neblo.
 [``Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions.''](https://doi.org/10.1177%2F0032321719890805)

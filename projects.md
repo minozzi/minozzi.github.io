@@ -3,6 +3,9 @@ layout: page
 title: Projects
 ---
 
+"Connecting Classrooms to Congress"
+With Joseph Kahne, Jonathan Collins, Kevin Esterling, Mariam Salloum, Erica Hodgin, and Michael Neblo.
+
 "Athletic Democracy: Robust Deliberation *and* Participation." 
 With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 
