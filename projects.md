@@ -9,9 +9,6 @@ With Joseph Kahne, Jonathan Collins, Kevin Esterling, Mariam Salloum, Erica Hodg
 "Athletic Democracy: Robust Deliberation *and* Participation." 
 With Michael Neblo, Lauren Ratliff Santoro, Anand Sokhey, & David Lazer
 
-"Does Familiarity Breed Esteem?  A Field Experiment on Emergent Attitudes toward Members of Congress." 
-With Kevin Esterling & Michael Neblo
-
 "It Takes Two: Heterogeneous Motivations and Reputations in International Relations." 
 With Eunbin Chung, Matthew Hitt, & Andrew Rosenberg
 

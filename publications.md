@@ -11,9 +11,15 @@ Accepted, *American Journal of Political Science*.
 [Appendix](testing-benefitsappendix.pdf)
 [Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
 
+Kevin Esterling, William Minozzi, & Michael A. Neblo.
+["Does Familiarity Breed Esteem? A Field Experiment on Emergent Attitudes toward Members of Congress."](https://doi.org/10.1177%2F10659129211073910)
+OnlineFirst, *Political Research Quarterly*.
+
 William Minozzi & Gregory A. Caldeira.
 ["Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861."](https://www.doi.org/10.1017/S0003055421000630)
-First View, *American Political Science Review*.
+2021.
+*American Political Science Review*.
+115(4):1292-1307.
 [Appendix](residences-appendix.pdf)
 [Replication materials](https://doi.org/10.7910/DVN/LIJSWE)
 
@@ -23,7 +29,7 @@ Ryan Kennedy, Anand E. Sokhey, Claire Abernathy, Kevin M. Esterling, David M.J. 
 *Political Studies*
 69(1):66-88. 
 
-William Minozzi and Jonathan Woon. 
+William Minozzi and Jonathan Woon.
 2020.
 ["Direct Response and the Strategy Method in an Experimental Cheap Talk Game."](https://doi.org/10.1016/j.socec.2019.101498)
 *Journal of Behavioral and Experimental Economics*
