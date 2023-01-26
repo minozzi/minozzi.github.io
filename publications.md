@@ -4,6 +4,12 @@ title: Publications
 ---
 
 
+William Minozzi & Jonathan Woon.
+"Electability Salience Can Bias Voting Decisions."
+Accepted, *Research & Politics*.
+[Draft](electability-manuscript.pdf)
+[Replication materials](https://doi.org/10.7910/DVN/59UCPS)
+
 William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
 "Testing the Benefits of Public Deliberation."
 Accepted, *American Journal of Political Science*.
