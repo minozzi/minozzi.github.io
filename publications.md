@@ -11,29 +11,29 @@ Accepted, *American Journal of Political Science*.
 [\[Replication materials\]](https://doi.org/10.7910/DVN/VSVBTP)
 
 William Minozzi & Jonathan Woon.
-["Electability Salience Can Bias Voting Decisions."](https://journals.sagepub.com/doi/epub/10.1177/20531680231159074)
 2023.
+["Electability Salience Can Bias Voting Decisions."](https://journals.sagepub.com/doi/epub/10.1177/20531680231159074)
 *Research & Politics*
 10(1), DOI: 10.1177/20531680231159074.
-[Replication materials](https://doi.org/10.7910/DVN/59UCPS)
+[\[Replication materials\]](https://doi.org/10.7910/DVN/59UCPS)
 
 Kevin Esterling, William Minozzi, & Michael A. Neblo.
-["Does Familiarity Breed Esteem? A Field Experiment on Emergent Attitudes toward Members of Congress."](https://doi.org/10.1177%2F10659129211073910)
 2023.
+["Does Familiarity Breed Esteem? A Field Experiment on Emergent Attitudes toward Members of Congress."](https://doi.org/10.1177%2F10659129211073910)
 *Political Research Quarterly*
 76(1): 183-85.  
 
 William Minozzi & Gregory A. Caldeira.
-["Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861."](https://www.doi.org/10.1017/S0003055421000630)
 2021.
+["Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861."](https://www.doi.org/10.1017/S0003055421000630)
 *American Political Science Review*.
 115(4):1292-1307.
-[Appendix](residences-appendix.pdf)
-[Replication materials](https://doi.org/10.7910/DVN/LIJSWE)
+[\[Appendix\]](residences-appendix.pdf)
+[\[Replication materials\]](https://doi.org/10.7910/DVN/LIJSWE)
 
 Ryan Kennedy, Anand E. Sokhey, Claire Abernathy, Kevin M. Esterling, David M.J. Lazer, Amy Lee, William Minozzi, & Michael A. Neblo.
-[``Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions.''](https://doi.org/10.1177%2F0032321719890805)
 2021.
+[``Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions.''](https://doi.org/10.1177%2F0032321719890805)
 *Political Studies*
 69(1):66-88. 
 
@@ -48,30 +48,30 @@ William Minozzi, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, & Katherine O
 ["The Incidental Pundit: Who Talks Politics with Whom, and Why?"](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12469)
 *American Journal of Political Science*
 64(1): 135-51.  
-[Appendix](incidental-pundit-appendix.pdf)
-[Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
+[\[Appendix\]](incidental-pundit-appendix.pdf)
+[\[Replication materials\]](https://doi.org/10.7910/DVN/VSVBTP)
 
 Claire Abernathy, Kevin Esterling, Justin Freebourn, Ryan Kennedy, Michael Neblo, & Jonathan Solis.
 2019.
 ["Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress."](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12242)
 *Legislative Studies Quarterly*
 44(4): 617-46.  
-[Appendix](telephone-town-halls-appendix.pdf)
-[Replication materials](https://doi.org/10.7910/DVN/LGBXWX)
+[\[Appendix\]](telephone-town-halls-appendix.pdf)
+[\[Replication materials\]](https://doi.org/10.7910/DVN/LGBXWX)
 
 William Minozzi and Jonathan Woon.
 2019.
 ["The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games."](https://www.sciencedirect.com/science/article/pii/S0899825619300740)
 *Games and Economic Behavior* 117(September): 144-62.  
-[Appendix](limited-value-appendix.pdf) 
-[Replication materials](https://doi.org/10.7910/DVN/99OJBV) 
+[\[Appendix\]](limited-value-appendix.pdf) 
+[\[Replication materials\]](https://doi.org/10.7910/DVN/99OJBV) 
 
 Ethan Hershberger, William Minozzi, & Craig Volden.
 2018.
 ["Party Calls and Reelection in the U.S. Senate." ](https://www.journals.uchicago.edu/doi/10.1086/698662)
 *Journal of Politics*.  80(4): 1394-9.  
-[Appendix](senate-party-calls-appendix.pdf) 
-[Replication materials](https://doi.org/10.7910/DVN/6NDYHC)
+[\[Appendix\]](senate-party-calls-appendix.pdf) 
+[\[Replication materials\]](https://doi.org/10.7910/DVN/6NDYHC)
 
 Michael A. Neblo, William Minozzi, Kevin M. Esterling, Jon Green, Jonathon Kingzette, & David M.J. Lazer.
 2017.
@@ -88,7 +88,7 @@ William Minozzi, Michael A. Neblo, Kevin M. Esterling, & David M. J. Lazer.
 ["Field experiment evidence of substantive, attributional, and behavioral persuasion by 
 Members of Congress in online town halls."](http://www.pnas.org/content/112/13/3937.abstract?sid=d04bba5b-170a-40f3-9ef4-2db3b19a982d) 
 *Proceedings of the National Academy of Sciences*. 112(13): 3937-3942.  
-[Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27323)
+[\[Replication materials\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27323)
 
 William Minozzi.
 2014.
@@ -110,7 +110,7 @@ William Minozzi.
 2013.
 ["Endogenous Beliefs in Models of Politics"](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12021)
 *American Journal of Political Science*. 57(3): 566-81.  
-[Appendix](beliefs-appendix.pdf)
+[\[Appendix\]](beliefs-appendix.pdf)
 
 Luke Keele & William Minozzi.
 2013.
@@ -121,12 +121,12 @@ William Minozzi.
 2011.
 ["A Jamming Theory of Politics"](http://www.journals.uchicago.edu/doi/abs/10.1017/S0022381611000296)
 *Journal of Politics*. 73(2): 301-15.  
-[Appendix](jamming-appendix.pdf)
+[\[Appendix\]](jamming-appendix.pdf)
 
 Brandice Canes-Wrone, William Minozzi, & Jessica Bonney Reveley.
 2011.
 ["Issue Accountability and the Mass Public"](http://onlinelibrary.wiley.com/doi/10.1111/j.1939-9162.2010.00002.x/abstract)
 *Legislative Studies Quarterly*. 36(1): 5-35.  
-[Appendix](issue-accountability-appendix.pdf)
+[\[Appendix\]](issue-accountability-appendix.pdf)
 
 ---
