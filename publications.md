@@ -3,13 +3,6 @@ layout: page
 title: Publications
 ---
 
-
-William Minozzi & Jonathan Woon.
-"Electability Salience Can Bias Voting Decisions."
-Accepted, *Research & Politics*.
-[Draft](electability-manuscript.pdf)
-[Replication materials](https://doi.org/10.7910/DVN/59UCPS)
-
 William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
 "Testing the Benefits of Public Deliberation."
 Accepted, *American Journal of Political Science*.
@@ -17,9 +10,19 @@ Accepted, *American Journal of Political Science*.
 [Appendix](testing-benefitsappendix.pdf)
 [Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
 
+William Minozzi & Jonathan Woon.
+"Electability Salience Can Bias Voting Decisions."
+2023. 
+*Research & Politics*
+10(1), DOI: 10.1177/20531680231159074.
+[Draft](https://journals.sagepub.com/doi/epub/10.1177/20531680231159074)
+[Replication materials](https://doi.org/10.7910/DVN/59UCPS)
+
 Kevin Esterling, William Minozzi, & Michael A. Neblo.
 ["Does Familiarity Breed Esteem? A Field Experiment on Emergent Attitudes toward Members of Congress."](https://doi.org/10.1177%2F10659129211073910)
-OnlineFirst, *Political Research Quarterly*.
+2023.
+*Political Research Quarterly*
+76(1): 183-85.  
 
 William Minozzi & Gregory A. Caldeira.
 ["Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861."](https://www.doi.org/10.1017/S0003055421000630)
