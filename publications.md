@@ -5,7 +5,7 @@ title: Publications
 
 William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
 "Testing the Benefits of Public Deliberation."
-Accepted, *American Journal of Political Science*.
+Accepted, *American Journal of Political Science*.  
 [\[Draft\]](testing-benefits-draft.pdf)
 [\[Appendix\]](testing-benefitsappendix.pdf)
 [\[Replication materials\]](https://doi.org/10.7910/DVN/VSVBTP)
@@ -13,7 +13,7 @@ Accepted, *American Journal of Political Science*.
 William Minozzi & Jonathan Woon.
 2023.
 ["Electability Salience Can Bias Voting Decisions."](https://journals.sagepub.com/doi/epub/10.1177/20531680231159074)
-*Research & Politics*
+*Research & Politics*  
 10(1), DOI: 10.1177/20531680231159074.
 [\[Replication materials\]](https://doi.org/10.7910/DVN/59UCPS)
 
@@ -27,7 +27,7 @@ William Minozzi & Gregory A. Caldeira.
 2021.
 ["Congress and Community: Coresidence Social Influence in the U.S. House of Representatives, 1801-1861."](https://www.doi.org/10.1017/S0003055421000630)
 *American Political Science Review*.
-115(4):1292-1307.
+115(4):1292-1307.  
 [\[Appendix\]](residences-appendix.pdf)
 [\[Replication materials\]](https://doi.org/10.7910/DVN/LIJSWE)
 
