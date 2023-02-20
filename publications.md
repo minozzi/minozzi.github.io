@@ -6,16 +6,15 @@ title: Publications
 William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
 "Testing the Benefits of Public Deliberation."
 Accepted, *American Journal of Political Science*.
-[Draft](testing-benefits-draft.pdf)
-[Appendix](testing-benefitsappendix.pdf)
-[Replication materials](https://doi.org/10.7910/DVN/VSVBTP)
+[\[Draft\]](testing-benefits-draft.pdf)
+[\[Appendix\]](testing-benefitsappendix.pdf)
+[\[Replication materials\]](https://doi.org/10.7910/DVN/VSVBTP)
 
 William Minozzi & Jonathan Woon.
-"Electability Salience Can Bias Voting Decisions."
-2023. 
+["Electability Salience Can Bias Voting Decisions."](https://journals.sagepub.com/doi/epub/10.1177/20531680231159074)
+2023.
 *Research & Politics*
 10(1), DOI: 10.1177/20531680231159074.
-[Draft](https://journals.sagepub.com/doi/epub/10.1177/20531680231159074)
 [Replication materials](https://doi.org/10.7910/DVN/59UCPS)
 
 Kevin Esterling, William Minozzi, & Michael A. Neblo.
