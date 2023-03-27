@@ -4,9 +4,8 @@ title: Publications
 ---
 
 William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
-"Testing the Benefits of Public Deliberation."
-Accepted, *American Journal of Political Science*.  
-[\[Draft\]](testing-benefits-draft.pdf)
+["Testing the Benefits of Public Deliberation."](http://doi.org/10.1111/ajps.12775)
+Early View, *American Journal of Political Science*.  
 [\[Appendix\]](testing-benefitsappendix.pdf)
 [\[Replication materials\]](https://doi.org/10.7910/DVN/VSVBTP)
 
@@ -17,7 +16,7 @@ William Minozzi & Jonathan Woon.
 10(1), DOI: 10.1177/20531680231159074.
 [\[Replication materials\]](https://doi.org/10.7910/DVN/59UCPS)
 
-Kevin Esterling, William Minozzi, & Michael A. Neblo.
+Kevin M. Esterling, William Minozzi, & Michael A. Neblo.
 2023.
 ["Does Familiarity Breed Esteem? A Field Experiment on Emergent Attitudes toward Members of Congress."](https://doi.org/10.1177%2F10659129211073910)
 *Political Research Quarterly*
