@@ -4,8 +4,10 @@ title: Publications
 ---
 
 William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
+2024.
 ["Testing the Benefits of Public Deliberation."](http://doi.org/10.1111/ajps.12775)
-Early View, *American Journal of Political Science*.  
+*American Journal of Political Science*.  
+68(1): 319-34.  
 [\[Appendix\]](testing-benefitsappendix.pdf)
 [\[Replication materials\]](https://doi.org/10.7910/DVN/VSVBTP)
 
