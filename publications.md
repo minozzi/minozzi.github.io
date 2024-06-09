@@ -3,6 +3,18 @@ layout: page
 title: Publications
 ---
 
+William Minozzi, Gabriel Madson, & David A. Siegel.
+["Can Money Buy Control of Congress?"](can-money-buy-congress-accepted.pdf)
+Accepted at *PLoS ONE*.  
+[\[Manuscript\]](can-money-buy-congress-accepted.pdf)
+[\[Replication materials\]](https://doi.org/10.7910/DVN/BQGGFI)
+
+William Minozzi & Jonathan Woon.
+["Numeric vs. Natural Language Messages in Experimental Cheap Talk Games."](numeric-natural-language-accepted.pdf)
+Accepted at *Journal of the Economic Science Association*.  
+[\[Manuscript\]](numeric-natural-language-accepted.pdf)
+[\[Replication materials\]](https://doi.org/10.7910/DVN/WF2G6Z)
+
 William Minozzi, Ryan Kennedy, Kevin M. Esterling, Michael A. Neblo, & Ryan Jewell.
 2024.
 ["Testing the Benefits of Public Deliberation."](http://doi.org/10.1111/ajps.12775)
