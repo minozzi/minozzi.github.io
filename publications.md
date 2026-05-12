@@ -90,12 +90,12 @@ Hershberger, Ethan, William Minozzi, and Craig Volden. 2018.
 **The Need for a Translational Science of Democracy**  
 Neblo, Michael A., William Minozzi, Kevin M. Esterling, Jon Green, Jonathon Kingzette, and David M.J. Lazer. 2017.  
 *Science*. 355(6328): 914–5.  
-[DOI: 10.1126/science.aal2603](https://doi.org/10.1126/science.aal2603)
+[DOI: 10.1126/science.aal3900](https://doi.org/10.1126/science.aal3900)
 
-**Competition, Preference Uncertainty, and Jamming**  
+**Competition, Preference Uncertainty, and Jamming: A strategic communication experiment**  
 Minozzi, William, and Jonathan Woon. 2016.  
 *Games and Economic Behavior*. 96(March): 97–114.  
-[DOI: 10.1016/j.geb.2016.02.003](https://doi.org/10.1016/j.geb.2016.02.003)
+[DOI: 10.1016/j.geb.2016.01.012](https://doi.org/10.1016/j.geb.2016.01.012)
 
 **Field experiment evidence of substantive, attributional, and behavioral persuasion by Members of Congress in online town halls**  
 Minozzi, William, Michael A. Neblo, Kevin M. Esterling, and David M. J. Lazer. 2015.  
@@ -111,29 +111,29 @@ Minozzi, William. 2014.
 **Lying Aversion, Lobbying, and Context in a Strategic Communication Experiment**  
 Minozzi, William, and Jonathan Woon. 2013.  
 *Journal of Theoretical Politics*. 25(3): 309–37.  
-[DOI: 10.1177/0951629812467005](https://doi.org/10.1177/0951629812467005)
+[DOI: 10.1177/0951629813477276](https://doi.org/10.1177/0951629813477276)
 
 **Who Heeds the Call of the Party in Congress?**  
 Minozzi, William, and Craig Volden. 2013.  
 *Journal of Politics*. 75(3): 787–802.  
-[DOI: 10.1017/S002238161300045X](https://doi.org/10.1017/S002238161300045X)  
+[DOI: 10.1017/S0022381613000480](https://doi.org/10.1017/S0022381613000480)  
 [Replication package](https://doi.org/10.7910/DVN/6NDYHC)
 
 **Endogenous Beliefs in Models of Politics**  
 Minozzi, William. 2013.  
 *American Journal of Political Science*. 57(3): 566–81.  
-[DOI: 10.1111/ajps.12001](https://doi.org/10.1111/ajps.12001)
+[DOI: 10.1111/ajps.12021](https://doi.org/10.1111/ajps.12021)
 
-**How Much is Minnesota Like Wisconsin?**  
+**How Much is Minnesota Like Wisconsin? Assumptions and Counterfactuals in Causal Inference with Observational Data**  
 Keele, Luke, and William Minozzi. 2013.  
 *Political Analysis*. 21(2): 193–216.  
-[DOI: 10.1093/pan/mps035](https://doi.org/10.1093/pan/mps035)
+[DOI: 10.1093/pan/mps041](https://doi.org/10.1093/pan/mps041)  
 [Replication package](https://doi.org/10.7910/DVN/LITWQ9)
 
 **A Jamming Theory of Politics**  
 Minozzi, William. 2011.  
 *Journal of Politics*. 73(2): 301–15.  
-[DOI: 10.1017/S002238161100004X](https://doi.org/10.1017/S002238161100004X)
+[DOI: 10.1017/S0022381611000296](https://doi.org/10.1017/S0022381611000296)
 
 **Issue Accountability and the Mass Public**  
 Canes-Wrone, Brandice, William Minozzi, and Jessica Bonney Reveley. 2011.  
