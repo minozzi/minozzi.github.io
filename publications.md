@@ -50,7 +50,7 @@ Esterling, Kevin M., William Minozzi, and Michael A. Neblo. 2023.
 **Congress and Community: Coresidence and Social Influence in the U.S. House of Representatives, 1801–1861**  
 Minozzi, William, and Greg Caldeira. 2021.  
 *American Political Science Review*. 115(4): 1292-1307.  
-[DOI: 10.1017/S000305542100067X](https://doi.org/10.1017/S000305542100067X)  
+[DOI: 10.1017/S0003055421000630](https://doi.org/10.1017/S0003055421000630)  
 [Replication package](https://doi.org/10.7910/DVN/LIJSWE)
 
 **Demographics and (Equal?) Voice: Assessing Participation in Online Deliberative Sessions**  
@@ -72,19 +72,19 @@ Minozzi, William, Hyunjin Song, David M.J. Lazer, Michael A. Neblo, and Katherin
 **Constituent Communication through Telephone Town Halls: A Field Experiment Involving Members of Congress**  
 Abernathy, Claire, Kevin M. Esterling, Justin Freeborn, Ryan Kennedy, William Minozzi, Michael A. Neblo, and Jonathan A. Solis. 2019.  
 *Legislative Studies Quarterly*. 44(4): 617–646.  
-[DOI: 10.1111/lsq.12241](https://doi.org/10.1111/lsq.12241)  
+[DOI: 10.1111/lsq.12242](https://doi.org/10.1111/lsq.12242)  
 [Replication package](https://doi.org/10.7910/DVN/LGBXWX)
 
 **The Limited Value of a Second Opinion: Competition and Exaggeration in Experimental Cheap Talk Games**  
 Minozzi, William and Jonathan Woon. 2019.  
 *Games and Economic Behavior*. 117(September): 144–162.  
-[DOI: 10.1016/j.geb.2019.06.002](https://doi.org/10.1016/j.geb.2019.06.002)  
+[DOI: 10.1016/j.geb.2019.05.004](https://doi.org/10.1016/j.geb.2019.05.004)  
 [Replication package](https://doi.org/10.7910/DVN/99OJBV)
 
 **Party Calls and Reelection in the U.S. Senate**  
 Hershberger, Ethan, William Minozzi, and Craig Volden. 2018.  
 *Journal of Politics*. 80(4): 1394–9.  
-[DOI: 10.1086/698716](https://doi.org/10.1086/698716)  
+[DOI: 10.1086/698662](https://doi.org/10.1086/698662)  
 [Replication package](https://doi.org/10.7910/DVN/6NDYHC)
 
 **The Need for a Translational Science of Democracy**  
