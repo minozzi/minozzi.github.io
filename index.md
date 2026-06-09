@@ -27,7 +27,7 @@ My work spans political methodology and American politics, with particular focus
 
 **Deliberation's Dark Matter: Silence, Marginal Speech, and Systematic Exclusion**  
 Jang, Euchan, William Minozzi, and Michael A. Neblo.  
-Critics of deliberative democracy argue that deliberation may reproduce political disadvantage. Most tests of this claim rely on simple counts of who speaks, without noticing what is absent: silence, and speech deemed inappropriate and thus filtered. Using equivalence confidence intervals and Bayesian multilevel models across two deliberative forums with minimal intervention, we find little evidence of large disparities. Deliberation looks less inherently exclusionary than its critics fear, yet its "dark matter" warrants drawing out quiet voices, rather than merely policing rude ones.
+Examining whether deliberative forums systematically exclude disadvantaged groups through silence and filtered speech, with implications for democratic theory and practice.
 
 **AI-Enabled Interviews and Democratic Deliberation**  
 Examining how AI-assisted semi-structured interviews compare to fixed surveys in capturing public opinion, with implications for deliberative democratic theory.
