@@ -34,11 +34,9 @@ Valeria Burdea, William Minozzi, and Jonathan Woon.
 Investigating how partisan identity shapes perceptions of others' factual accuracy, linking motivated reasoning to fact-based polarization.
 
 **How to Rebuild Trust in Representative Institutions**  
-William Minozzi, Marco Castro-Adori, Manuel Diaz-Olivares, Ryan Kennedy, and Michael A. Neblo.  
+William Minozzi, Marco Castradori, Manuel Diaz-Olivares, Ryan Kennedy, and Michael A. Neblo.  
 Examining whether Deliberative Town Halls can authentically restore citizen trust in elected officials and representative institutions, drawing on two decades of events across four countries.
 
-**AI-Enabled Interviews and Democratic Deliberation**  
-Examining how AI-assisted semi-structured interviews compare to fixed surveys in capturing public opinion, with implications for deliberative democratic theory.
 
 ---
 
