@@ -9,8 +9,6 @@ Professor
 Department of Political Science  
 The Ohio State University
 
-[About](#about-me) | [Research](#research-interests) | [Publications](/publications) | [CV](/cv)
-
 ---
 
 ## About Me
@@ -20,15 +18,23 @@ I am a Professor in the Department of Political Science at The Ohio State Univer
 ## Research Interests
 
 My work spans political methodology and American politics, with particular focus on:
+
 *   The strategic deployment of expert information by elites.
 *   Learning, party reputations, and issue salience in campaign strategy.
 *   Dynamics of responsiveness to party pressure in Congress.
 
+## Working Papers
+
+**AI-Enabled Interviews and Democratic Deliberation**  
+Examining how AI-assisted semi-structured interviews compare to fixed surveys in capturing public opinion, with implications for deliberative democratic theory.
+
+**Money, Influence, and Congressional Control**  
+Ongoing work on the limits of campaign finance in shaping congressional composition and legislative behavior.
+
 ---
 
-### Links
-* [Google Scholar]({{ site.google_scholar }})
-* [ORCID]({{ site.orcid }})
+### Affiliations
+
 * [Institute for Democratic Engagement and Accountability (IDEA)]({{ site.osu_idea }})
 * [Translational Data Analytics Institute (TDAI)]({{ site.osu_tdai }})
 * [OSU Department Profile]({{ site.osu_dept }})
