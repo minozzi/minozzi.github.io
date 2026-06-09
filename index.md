@@ -3,14 +3,6 @@ layout: default
 title: Home
 ---
 
-# William Minozzi
-
-Professor  
-Department of Political Science  
-The Ohio State University
-
----
-
 ## About Me
 
 I am a Professor in the Department of Political Science at The Ohio State University. I earned my Ph.D. from the Stanford University Graduate School of Business in 2006. My research focuses on the intersection of preferences, beliefs, and communication, and how these factors shape politics and policy.
@@ -19,7 +11,7 @@ I am a Professor in the Department of Political Science at The Ohio State Univer
 
 My work spans political methodology and American politics, with particular focus on:
 
-*   Whether and how deliberative citizen-official dialogue can rebuild trust in representative institutions and produce equitable political participation.
+*   Whether and how deliberative innovations can rebuild trust in representative institutions and engage equitable participation.
 *   How partisan identity distorts beliefs about information sources, contributing to political polarization and the limits of factual persuasion.
 *   The structure of strategic communication — incentives, format, and context — and what experimental evidence reveals about credibility, cheap talk, and political learning.
 
