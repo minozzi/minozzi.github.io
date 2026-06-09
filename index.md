@@ -28,9 +28,6 @@ My work spans political methodology and American politics, with particular focus
 **AI-Enabled Interviews and Democratic Deliberation**  
 Examining how AI-assisted semi-structured interviews compare to fixed surveys in capturing public opinion, with implications for deliberative democratic theory.
 
-**Money, Influence, and Congressional Control**  
-Ongoing work on the limits of campaign finance in shaping congressional composition and legislative behavior.
-
 ---
 
 ### Affiliations
