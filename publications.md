@@ -7,9 +7,9 @@ title: Publications
 
 ### Peer-Reviewed Articles
 
-**An Experimental Comparison of AI-Enabled Semi-Structured Interviews and Fixed Surveys: Respondent Satisfaction, Response Patterns, Quality, and Representation.**
+**An Experimental Comparison of AI-Enabled Semi-Structured Interviews and Fixed Surveys: Respondent Satisfaction, Response Patterns, Quality, and Representation.**
 Austin, Amanda, Edward Hohe, Ryan Kennedy, Leib Litman, William Minozzi, and Laura Moses. 
-*Public Opinion Quarterly.* Conditionally accepted.
+*Public Opinion Quarterly.* Accepted.
 
 **A Randomized Field Trial on Motives for Engaging with Elected Officials**  
 Minozzi, William, Michael A. Neblo, and Andrew Leigh. 2025.  
