@@ -29,6 +29,10 @@ My work spans political methodology and American politics, with particular focus
 Jang, Euchan, William Minozzi, and Michael A. Neblo.  
 Examining whether deliberative forums systematically exclude disadvantaged groups through silence and filtered speech, with implications for democratic theory and practice.
 
+**Partisan Biases in Source Credibility Beliefs**  
+Burdea, Valeria, William Minozzi, and Jonathan Woon.  
+Investigating how partisan identity shapes perceptions of others' factual accuracy, linking motivated reasoning to fact-based polarization.
+
 **AI-Enabled Interviews and Democratic Deliberation**  
 Examining how AI-assisted semi-structured interviews compare to fixed surveys in capturing public opinion, with implications for deliberative democratic theory.
 
