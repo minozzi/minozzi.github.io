@@ -5,7 +5,7 @@ title: Home
 
 ## About Me
 
-I am a Professor in the Department of Political Science at The Ohio State University. I earned my Ph.D. from the Stanford University Graduate School of Business in 2006. My research focuses on the intersection of preferences, beliefs, and communication, and how these factors shape politics and policy.
+I am a Professor in the Department of Political Science at The Ohio State University. My research focuses on the intersection of preferences, beliefs, and communication, and how these factors shape politics and policy, and my work has been published in journals including *American Political Science Review*, *American Journal of Political Science*, *Journal of Politics*, *Proceedings of the National Academy of Sciences*, and *Science*. 
 
 ## Research Interests
 
