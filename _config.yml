@@ -11,6 +11,11 @@ osu_idea: https://democracyinstitute.osu.edu/
 osu_tdai: https://tdai.osu.edu/
 osu_dept: https://polisci.osu.edu/people/minozzi.1
 
+# GoatCounter analytics. Set this to your site code — the subdomain part of
+# https://<code>.goatcounter.com — to turn on tracking. Empty means no
+# analytics script is emitted at all.
+goatcounter: "minozzi"
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
