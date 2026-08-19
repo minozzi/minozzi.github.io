@@ -1,0 +1,22 @@
+# CV sources are kept locally, not published to the site repo. Only the
+# rendered PDF is committed.
+cv*.tex
+res.cls
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# macOS
+.DS_Store

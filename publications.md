@@ -7,9 +7,10 @@ title: Publications
 
 ### Peer-Reviewed Articles
 
-**An Experimental Comparison of AI-Enabled Semi-Structured Interviews and Fixed Surveys: Respondent Satisfaction, Response Patterns, Quality, and Representation.**
-Austin, Amanda, Edward Hohe, Ryan Kennedy, Leib Litman, William Minozzi, and Laura Moses. 
-*Public Opinion Quarterly.* Accepted.
+**An Experimental Comparison of AI-Enabled Semi-Structured Interviews and Fixed Surveys: Respondent Satisfaction, Response Patterns, Quality, and Representation**  
+Austin, Amanda, Edward Hohe, Ryan Kennedy, Leib Litman, William Minozzi, and Laura Moses. 2026.  
+*Public Opinion Quarterly.* Advance access.  
+[DOI: 10.1093/poq/nfag063](https://doi.org/10.1093/poq/nfag063)
 
 **A Randomized Field Trial on Motives for Engaging with Elected Officials**  
 Minozzi, William, Michael A. Neblo, and Andrew Leigh. 2025.  
@@ -44,7 +45,7 @@ Minozzi, William, and Jonathan Woon. 2023.
 **Does Familiarity Breed Esteem? A Field Experiment on Emergent Attitudes toward Members of Congress**  
 Esterling, Kevin M., William Minozzi, and Michael A. Neblo. 2023.  
 *Political Research Quarterly*. 76(1): 173-85.  
-[DOI: 10.1177/10659129211066699](https://doi.org/10.1177/10659129211073910)  
+[DOI: 10.1177/10659129211073910](https://doi.org/10.1177/10659129211073910)  
 [Replication package](https://osf.io/3y48x/)
 
 **Congress and Community: Coresidence and Social Influence in the U.S. House of Representatives, 1801–1861**  
@@ -106,7 +107,7 @@ Minozzi, William, Michael A. Neblo, Kevin M. Esterling, and David M. J. Lazer. 2
 **Conditions for Dialogue and Dominance in Political Campaigns**  
 Minozzi, William. 2014.  
 *Political Communication*. 31(1): 73–93.  
-[DOI: 10.1080/10584609.2013.828139](https://doi.org/10.1080/10584609.2013.828139)
+[DOI: 10.1080/10584609.2012.747191](https://doi.org/10.1080/10584609.2012.747191)
 
 **Lying Aversion, Lobbying, and Context in a Strategic Communication Experiment**  
 Minozzi, William, and Jonathan Woon. 2013.  
