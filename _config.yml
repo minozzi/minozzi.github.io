@@ -11,6 +11,11 @@ osu_idea: https://democracyinstitute.osu.edu/
 osu_tdai: https://tdai.osu.edu/
 osu_dept: https://polisci.osu.edu/people/minozzi.1
 
+# Current CV PDF. Date-stamped, so it changes on every rebuild — update this
+# one line and both the nav link and the download button follow. Referencing
+# the filename directly in a template is what broke the nav in Aug 2026.
+cv_pdf: /cv-minozzi-2026-08-19.pdf
+
 # GoatCounter analytics. Set this to your site code — the subdomain part of
 # https://<code>.goatcounter.com — to turn on tracking. Empty means no
 # analytics script is emitted at all.

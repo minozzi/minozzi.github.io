@@ -16,6 +16,7 @@ ROOT = File.expand_path("..", __dir__)
 PUBS = File.join(ROOT, "publications.md")
 CVMD = File.join(ROOT, "cv.md")
 INDEX = File.join(ROOT, "index.md")
+CONFIG = File.join(ROOT, "_config.yml")
 
 $failures = []
 
@@ -68,15 +69,33 @@ check("the Public Opinion Quarterly paper is listed as published") do
     !poq.match?(/\bConditionally accepted\b/)
 end
 
-# The CV button is a hand-written href; a rebuilt CV renames the PDF and it is
-# easy to leave the link pointing at the deleted one.
-check("cv.md links to a PDF that exists in the repo") do
-  href = read_utf8(CVMD)[/href="\/([^"]+\.pdf)"/, 1]
-  !href.nil? && File.exist?(File.join(ROOT, href))
-end
-
+# The CV PDF is date-stamped, so every rebuild renames it. Both the nav link and
+# the download button must resolve through site.cv_pdf; a filename written
+# straight into a template goes stale the next time the CV is rebuilt, which is
+# how the nav came to 404 in Aug 2026.
 check("exactly one CV PDF is committed") do
   Dir.glob(File.join(ROOT, "cv-minozzi-*.pdf")).size == 1
+end
+
+check("site.cv_pdf names the committed PDF") do
+  declared = read_utf8(CONFIG)[/^cv_pdf:\s*\/(\S+)/, 1]
+  !declared.nil? && File.exist?(File.join(ROOT, declared))
+end
+
+check("no template hardcodes a CV filename") do
+  offenders = (Dir.glob(File.join(ROOT, "*.md")) +
+               Dir.glob(File.join(ROOT, "_layouts", "*.html")) +
+               Dir.glob(File.join(ROOT, "_includes", "*.html"))).select do |f|
+    read_utf8(f).match?(/href="[^"]*cv-minozzi-[^"]*\.pdf"/)
+  end
+  puts("      hardcoded in: #{offenders.map { |f| File.basename(f) }.join(', ')}") unless offenders.empty?
+  offenders.empty?
+end
+
+check("both CV links route through site.cv_pdf") do
+  [CVMD, File.join(ROOT, "_layouts", "default.html")].all? do |f|
+    read_utf8(f).include?("site.cv_pdf")
+  end
 end
 
 # Titles are matched on their first six words: the home page and publications

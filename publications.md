@@ -10,7 +10,8 @@ title: Publications
 **An Experimental Comparison of AI-Enabled Semi-Structured Interviews and Fixed Surveys: Respondent Satisfaction, Response Patterns, Quality, and Representation**  
 Austin, Amanda, Edward Hohe, Ryan Kennedy, Leib Litman, William Minozzi, and Laura Moses. 2026.  
 *Public Opinion Quarterly.* Advance access.  
-[DOI: 10.1093/poq/nfag063](https://doi.org/10.1093/poq/nfag063)
+[DOI: 10.1093/poq/nfag063](https://doi.org/10.1093/poq/nfag063)  
+[Replication package](https://doi.org/10.7910/DVN/DA2URD)
 
 **A Randomized Field Trial on Motives for Engaging with Elected Officials**  
 Minozzi, William, Michael A. Neblo, and Andrew Leigh. 2025.  

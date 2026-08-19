@@ -5,6 +5,6 @@ title: CV
 
 # Curriculum Vitae
 
-<a href="/cv-minozzi-2026-08-19.pdf" class="btn-download" target="_blank">Download CV (PDF)</a>
+<a href="{{ site.cv_pdf | relative_url }}" class="btn-download" target="_blank">Download CV (PDF)</a>
 
 ---
